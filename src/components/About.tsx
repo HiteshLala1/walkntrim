@@ -78,55 +78,59 @@ export function About() {
                 id="about-heading"
                 className="font-display text-3xl font-extrabold tracking-tight text-gray-900 uppercase sm:text-4xl lg:text-5xl"
               >
-                MORE THAN JUST A HAIRCUT.
+                MORE THAN JUST A HAIRCUT. IT&apos;S ABOUT HOW YOU SHOW UP.
               </h2>
             </MaskedHeading>
 
             <Reveal delay={0.1}>
               <div className="mt-6 space-y-5 text-base leading-relaxed text-gray-600 sm:text-lg">
                 <p>
-                  Walk N Trim is a dedicated{" "}
+                  Walk N Trim is a{" "}
                   <strong className="font-semibold text-gray-900">
-                    men&apos;s salon on Tariq Road
-                  </strong>{" "}
-                  built for men who value clean execution, reliable hygiene, and
-                  a composed grooming routine. Located right behind Tariq Center
-                  near Hina&apos;s Cosmetics, we make stepping in for quality
-                  grooming effortless.
-                </p>
-
-                <p>
-                  From an everyday{" "}
-                  <strong className="font-semibold text-gray-900">
-                    haircut on Tariq Road, Karachi
-                  </strong>{" "}
-                  and sharp beard work to multi-step skin care, protein hair
-                  treatments, and a tailored{" "}
-                  <strong className="font-semibold text-gray-900">
-                    groom&apos;s package in Karachi
+                    men&apos;s salon on Tariq Road, Karachi
                   </strong>
-                  , our menu combines practical value with careful attention to
-                  detail.
+                  , dedicated to helping men look sharp, feel confident, and
+                  maintain their personal grooming with ease. Conveniently
+                  located behind Tariq Centre, near Hina&apos;s Cosmetics, we
+                  bring together professional barbering, modern hairstyling, and
+                  essential men&apos;s grooming services in one place.
                 </p>
 
                 <p>
-                  Built as a modern{" "}
+                  Whether you&apos;re looking for a fresh{" "}
+                  <strong className="font-semibold text-gray-900">
+                    men&apos;s haircut in Karachi
+                  </strong>
+                  , a precision beard trim, a clean shave, a refreshing facial,
+                  or a protein hair treatment, our services are designed to keep
+                  you looking your best. We also offer tailored{" "}
+                  <strong className="font-semibold text-gray-900">
+                    groom packages in Karachi
+                  </strong>{" "}
+                  for grooms preparing for their wedding day and other special
+                  occasions.
+                </p>
+
+                <p>
+                  At Walk N Trim, we believe quality grooming should be
+                  accessible, comfortable, and hassle-free. From everyday
+                  haircuts and beard styling to complete grooming sessions, we
+                  focus on attention to detail, cleanliness, and dependable
+                  service.
+                </p>
+
+                <p>
+                  As a modern{" "}
                   <strong className="font-semibold text-gray-900">
                     barber shop on Tariq Road
                   </strong>{" "}
-                  and{" "}
+                  and a dedicated{" "}
                   <strong className="font-semibold text-gray-900">
-                    men&apos;s salon in Karachi
-                  </strong>{" "}
-                  for dependable{" "}
-                  <strong className="font-semibold text-gray-900">
-                    men&apos;s grooming in Karachi
+                    men&apos;s grooming salon in Karachi
                   </strong>
-                  , our focus stays simple: schedule ahead on WhatsApp, sit down
-                  with zero hassle, and{" "}
-                  <span className="font-medium text-gray-900">
-                    {siteConfig.brand.footerTagline}
-                  </span>
+                  , we make your visit easier with convenient WhatsApp
+                  appointment bookings, helping you plan ahead and spend less
+                  time waiting.
                 </p>
               </div>
             </Reveal>
